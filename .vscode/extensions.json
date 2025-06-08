@@ -6,6 +6,7 @@
         "yoavbls.pretty-ts-errors",
         "aaron-bond.better-comments",
         "streetsidesoftware.code-spell-checker",
-        "editorconfig.editorconfig"
+        "editorconfig.editorconfig",
+        "github.vscode-github-actions"
     ]
 }
